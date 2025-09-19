@@ -27,3 +27,32 @@ Clone the repository:
 ```bash
 git clone https://github.com/john89000/Frameworks_Assignment.git
 cd Frameworks_Assignment
+
+Install the required Python packages:
+
+pip install pandas matplotlib seaborn streamlit
+
+▶️ Usage
+1. Run Jupyter Notebook (optional)
+
+If you want to explore the dataset interactively:
+
+jupyter notebook
+
+2. Run the Streamlit app
+
+To launch the web application:
+
+streamlit run app.py
+
+
+This will start a local server and open the app in your browser at:
+👉 http://localhost:8501
+
+📊 Features
+
+Load and preview the CORD-19 metadata.csv file
+
+Generate visualizations to show trends and patterns in the dataset
+
+Explore data interactively with Streamlit
