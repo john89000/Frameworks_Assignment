@@ -8,7 +8,7 @@ This project explores the **CORD-19 dataset** (COVID-19 Open Research Dataset) u
 You can download the dataset from Kaggle:  
 👉 [CORD-19 Research Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
-⚠️ **Note:** The full dataset is very large. For this assignment, we only use the **`metadata.csv`** file or a small sample of the data.
+⚠️ **Note:** The full dataset is very large. For this project, you only use the **`metadata.csv`** file or a small sample of the data.
 
 ---
 
